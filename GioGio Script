@@ -1,0 +1,17 @@
+{
+  "title": "JoJo's Bizarre Adventure: Golden Wind",
+  "description": "Napoli, 2001. Giorno Giovana è un piccolo criminale con il grande sogno di diventare una "Gang-Star". Giorno ha una connessione con la linea sanguigna Joestar, e possiede lo stand "Gold Experience". Il suo sogno inizia a diventare realtà quando incontra Bruno Bucciarati, un partecipante della gang "Passione" e un portatore di stand. Giunti alla conclusione che tutti e due hanno idee simili, e che unanimamente non concordano sugli affari della gang, Giorno rivela il suo obiettivo: con l'aiuto di Bruno, riformerà Passione spodestando il capo della gang.Giorno, una volta diventato membro di Passione ed entrato nella squadra di Bucciarati, scopre che non è una semplice gang, è piena di portatori di stand. Una volta confrontatesi con le altre squadre, sleali e imprevedibili, scoprono che il loro obiettivo di cambiare la gang dall'interno non sarà facile da raggiungere. Parlando a proposito di questi avversari, Gioeno tenta di ralire tra i ranghi per avvicinarsi al boss, un uomo circondato dal mistero.",
+  "artist": "Hiroiko Araki",
+  "author": "Hiroiko Araki",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "56": {
+      "title": "The Grateful Dead - Parte 8",
+      "volume": "7",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/6DQZG79/"
+      }
+      "last_updated": "1616368746"
+    }
+  }
+}
